@@ -1,0 +1,2 @@
+# Understanding-Flight-Delays
+Led a team of 2 to gather insights on the reasons for flight delay. Merged, preprocessed, and did EDA on flight and weather information datasets. Visually understand effects of weather conditions, delay propagation through the day, and delay reduction in fly time. Modeled upsampled dataset using a custom hybrid model in which occurrence of delay was classified with F1 score 98.3%  and further on the true samples Regression was done that gave an RMSE of 9.2881.
